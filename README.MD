@@ -13,11 +13,11 @@ Esse projeto consiste em uma aplicação com temática da copa, tem como objetiv
 ## 📱 Preview
 
 <p align="center">
-    <img alt="Mobile1" src="./.github/Screenshot1.svg" width="200px" />
-    <img alt="Mobile2" src="./.github/Screenshot2.svg" width="200px" />
-    <img alt="Mobile3" src="./.github/Screenshot3.svg" width="200px" />
-    <img alt="Mobile4" src="./.github/Screenshot4.svg" width="200px" />
-    <img alt="Mobile5" src="./.github/Screenshot5.svg" width="200px" />
+    <img alt="Mobile1" src="./.github/Screenshot1.svg" width="250px" />
+    <img alt="Mobile2" src="./.github/Screenshot2.svg" width="250px" />
+    <img alt="Mobile3" src="./.github/Screenshot3.svg" width="250px" />
+    <img alt="Mobile4" src="./.github/Screenshot4.svg" width="250px" />
+    <img alt="Mobile5" src="./.github/Screenshot5.svg" width="250px" />
 </p>
 
 ## 📌 Tecnologias
